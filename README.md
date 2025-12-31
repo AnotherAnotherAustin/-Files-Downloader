@@ -54,8 +54,8 @@ playwright install
 ## Usage
 1. Clone the repo:
 ```
-git clone https://github.com/AnotherAnotherAustin/EpsteinDataset8Downloader.git
-cd EpsteinDataset8Downloader
+git clone https://github.com/AnotherAnotherAustin/-Files-Downloader.git
+cd -Files-Downloader
 ```
 2. Create a virtual environment *(optional but recommended)*:
 ```
